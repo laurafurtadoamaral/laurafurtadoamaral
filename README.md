@@ -1,4 +1,8 @@
-## Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laurafurtadoamaral&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&card_width=468&title_colorff595e)
+
+
 
 <!--
 **laurafurtadoamaral/laurafurtadoamaral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
